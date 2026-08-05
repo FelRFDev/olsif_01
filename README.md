@@ -12,6 +12,11 @@ O **OLSIF-CALC** é a frente tecnológica do **Observatório de Logística Suste
 
 A iniciativa busca estudar e produzir inteligência aplicada sobre logística ferroviária, integração regional, dados, inovação tecnológica e desenvolvimento territorial, com atenção especial ao eixo Brasil–Argentina e ao Corredor Mercosul. O foco inicial do observatório é a região de **Uruguaiana–Paso de los Libres** (um dos maiores portos secos da América Latina e gargalo logístico histórico).
 
+### Contexto e Problemática
+Historicamente, os dados sobre a malha logística do Mercosul — especialmente no gargalo rodoviário e ferroviário de Uruguaiana-RS — encontram-se fragmentados, subutilizados ou de difícil acesso para tomada de decisão. O transporte intermodal sofre pela falta de visibilidade sobre gargalos e capacidades dos terminais e pátios.
+
+O **OLSIF-CALC** (este projeto) surge exatamente para prover uma **solução tecnológica centralizada**: um repositório estruturado e um painel visual (Dashboard) que unifica informações públicas e acadêmicas de ferrovias, cargas, terminais e fronteiras. Ele transforma dados brutos e dispersos em inteligência acionável, permitindo que pesquisadores e gestores comparem cenários de transporte (custos, emissões de CO2, tempo) e visualizem a malha Sul de forma integrada.
+
 ### Princípios da Elaboração
 A ideia central desta aplicação é **transformar infraestrutura física em redes inteligentes, sustentáveis e orientadas por dados**. 
 Para viabilizar isso, o MVP foi projetado com três princípios arquitetônicos:

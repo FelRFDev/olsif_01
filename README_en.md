@@ -12,6 +12,11 @@
 
 This initiative aims to study and produce applied intelligence on railway logistics, regional integration, data, technological innovation, and territorial development, focusing specifically on the Brazil–Argentina axis and the Mercosur Corridor. The initial territorial focus is the **Uruguaiana–Paso de los Libres** region (one of Latin America's largest dry ports and a historical logistical bottleneck).
 
+### Context and Problem Statement
+Historically, data regarding the Mercosur logistics network — especially in the Uruguaiana-RS road and railway bottleneck — has been fragmented, underutilized, or difficult to access for decision-making. Intermodal transport suffers from a lack of visibility regarding bottlenecks and the capacities of terminals and yards.
+
+**OLSIF-CALC** (this project) was created precisely to provide a **centralized technological solution**: a structured repository and a visual dashboard that unifies public and academic information about railways, cargo, terminals, and borders. It transforms raw, scattered data into actionable intelligence, allowing researchers and managers to compare transport scenarios (costs, CO2 emissions, time) and visualize the southern network in an integrated manner.
+
 ### Design Principles
 The core idea of this application is to **transform physical infrastructure into smart, sustainable, and data-driven networks**. 
 To make this viable, the MVP was designed with three architectural principles:
