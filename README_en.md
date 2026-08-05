@@ -1,4 +1,4 @@
-# OLSIF-CALC / Dashboard 🚂
+# OLSIF-CALC / Dashboard
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![Django 5.1](https://img.shields.io/badge/Django-5.1-092E20?logo=django)](https://www.djangoproject.com/)
