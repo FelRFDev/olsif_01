@@ -1,0 +1,35 @@
+# Ambiente Virtual Python
+venv/
+env/
+.env
+.venv/
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do Django e Banco de Dados Local
+*.sqlite3
+db.sqlite3
+backend/db.sqlite3
+media/
+staticfiles/
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+Thumbs.db
+
+# Configurações de IDE e Editor
+.vscode/
+.idea/
+.gemini/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Pastas e arquivos do Docker (opcional, dependendo do que for commitado, mas útil evitar build logs)
+docker-compose.override.yml
