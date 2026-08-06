@@ -4,6 +4,8 @@
 [![Django 5.1](https://img.shields.io/badge/Django-5.1-092E20?logo=django)](https://www.djangoproject.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+![OLSIF-CALC Dashboard Screenshot](https://github.com/user-attachments/assets/4683400d-98e5-4d56-8301-f7eed003c025)
+
 [Versão em Português (README.md)](README.md)
 
 ## 📌 About the Project
